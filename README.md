@@ -17,4 +17,5 @@ We construct MOISD, a new large-scale maritime instance segmentation dataset com
 | #12   | Speedboat  | 193      | 0.0243  |
 
 # Dataset Download link
-[Google Drive]: https://drive.google.com/drive/folders/1b2bIy2bXWCGqSVOovx9UknSw2P-tQV_w?usp=drive_link
+[Google Drive]:
+https://drive.google.com/drive/folders/1b2bIy2bXWCGqSVOovx9UknSw2P-tQV_w?usp=drive_link
